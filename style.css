@@ -1,0 +1,21 @@
+* {
+               margin: 0px;
+               padding: 0px;
+               box-sizing: border-box;
+}
+
+body {
+               background-color: rgb(123, 200, 12);
+               height: 100vh;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+}
+
+.title {
+               font-size: 50px;
+               color: yellow;
+               font-family: cursive;
+               letter-spacing: 0.03em;
+               text-align: center;
+}
